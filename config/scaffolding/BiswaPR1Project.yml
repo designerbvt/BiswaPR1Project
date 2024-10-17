@@ -17,3 +17,8 @@ packages:
   gitUrl: https://github.com/designerbvt
   gitUsername: designerbvt
   gitBranch: master
+- name: GlobalVariableDemo3
+  gitServerName: designerbvt
+  gitUrl: https://github.com/designerbvt
+  gitUsername: designerbvt
+  gitBranch: master

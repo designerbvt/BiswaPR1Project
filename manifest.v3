@@ -10,17 +10,18 @@
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="GlobalVariableDemo1">1.0</value>
     <value name="GlobalVariableDemo2">1.0</value>
+    <value name="GlobalVariableDemo3">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">17-10-2024 07:35:40 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-10-17T07:37:08.3037237Z</value>
+  <value name="lastUpdated">2024-10-17T07:37:59.874390414Z</value>
   <value name="wmProjectId">fl5c6a63924b0164a04ce335</value>
   <value name="creator">Designer Administrator</value>
 </Values>
