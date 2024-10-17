@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: BiswaPR1Project
+  gitServerName: designerbvt
+  gitUrl: https://github.com/designerbvt
+  gitUsername: designerbvt
+  gitBranch: main
